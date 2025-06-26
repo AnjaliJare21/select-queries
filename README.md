@@ -29,7 +29,7 @@ Objective
 ##  How to Use
 
 1. Clone the repository or download the `.sql` file.
-2. Ensure `EcommerceDB` is created and populated (from Task 1 and 2).
-3. Open `task3-select-queries.sql` in **MySQL Workbench** or **SQLiteStudio**.
+2. Ensure `EcommerceDB` is created and populated.
+3. Open `select-queries.sql` in **MySQL Workbench** or **SQLiteStudio**.
 4. Execute each query step by step.
 5. Refer to screenshots in the `screenshots/` folder for results.
