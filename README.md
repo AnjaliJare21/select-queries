@@ -33,8 +33,3 @@ Objective
 3. Open `task3-select-queries.sql` in **MySQL Workbench** or **SQLiteStudio**.
 4. Execute each query step by step.
 5. Refer to screenshots in the `screenshots/` folder for results.
-
-## Screenshots (Preview)
-
-### 🧾 Query Editor
-![SQL Editor](./screenshots/query-editor.png)
